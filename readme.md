@@ -1,5 +1,8 @@
 PROJECT INTRODUCTION
 
+![AdobeStock_210908431-640](https://user-images.githubusercontent.com/99951561/179403163-5e27ef7d-1731-456f-aed5-64d4a094ee52.jpg)
+
+
 In this project, will predict California Housing Price with Supervised Learning Regression.
 
 Data Source: https://www.kaggle.com/datasets/camnugent/california-housing-prices
